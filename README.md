@@ -1,1 +1,3 @@
-# FmvpQuant_Notes
+# Notes：
+
+仅限个人复习使用，请勿用来盈利。
